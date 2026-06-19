@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://artbatchec.github.io/indexportal-leyu-com-cn/sitemap.xml
